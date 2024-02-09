@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="" />
+    <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modified_orders.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/modified_orders.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random9.py" beforeDir="false" afterPath="$PROJECT_DIR$/random9.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -23,6 +30,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="2a027UiWIq4sx3nFeR2rB5GdZsX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.startup.tasks" />
   </component>
-  <component name="RunManager" selected="Python.random10">
+  <component name="RunManager" selected="Python.random9">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,8 +169,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.random10" />
         <item itemvalue="Python.random9" />
+        <item itemvalue="Python.random10" />
         <item itemvalue="Python.random8" />
         <item itemvalue="Python.random7" />
         <item itemvalue="Python.random6" />

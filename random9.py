@@ -10,8 +10,12 @@ for x in df.index:
         df.loc[x,'Quantity']= 160
     if df.loc[x,'CookieName']=='Fortune Cookie':
         df.loc[x,'CookieName']='ChinaaaaaaaCookie'
-
+df=df.sort_values(by=['RevenuePerCookie','OrderTotal'])
+df.insert(2,'Rate from Customer',0)
+for x in df.index:
+    if df.loc[x,'RevenuePerCookie']>5:
+        df.loc[x,'Rate from Customer']=10
+    elif df.loc[x,'RevenuePerCookie']>1:
+        df.loc[x,'Rate from Customer']=df.loc[x,'RevenuePerCookie']+1
 print(df.to_string())
 
-output_file='modified_orders.xlsx'
-df.to_excel(output_file,index=False)
