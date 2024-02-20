@@ -6,9 +6,16 @@ nums.remove(100)
 print(100 in nums)
 print(nums)
 
-data = [1,1,32,654,654,312,3,5,1,3,85,54,9,55,12,5,12]
-data = sorted(data)
-print(data)
-
+data = [50,30,20,15,10,8,16]
 heapq.heapify(data)
+
+print('heapified data: ',data)
+print(heapq.heappop(data))
+print(heapq.heappop(data))
+print(heapq.heappop(data))
+print(heapq.heappop(data))
+print(heapq.heappop(data))
+print(heapq.heappop(data))
+print(heapq.heappop(data))
+
 

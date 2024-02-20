@@ -19,6 +19,10 @@ df['Jun'] = df['Jun']/1000000
 df['Jul'] = df['Jul']/1000000
 df['Aug'] = df['Aug']/1000000
 df['Sep'] = df['Sep']/1000000
+df['Oct'] = df['Oct']/1000000
+df['Nov'] = df['Nov']/1000000
+df['Dec'] = df['Dec']/1000000
+
 
 
 df=df.rename(columns={'Jan':'Jan (in million)'})
