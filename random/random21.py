@@ -1,4 +1,4 @@
-# Between these 2 numbers, what are prime numbers?
+# Between these 2 numbers, what are prime numbers? aka: only divided by its self and 1
 lower= 90
 upper=250
 
