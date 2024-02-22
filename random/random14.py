@@ -22,6 +22,7 @@ df['Sep'] = df['Sep']/1000000
 df['Oct'] = df['Oct']/1000000
 df['Nov'] = df['Nov']/1000000
 df['Dec'] = df['Dec']/1000000
+df['Notes']=''
 
 
 
