@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="this is my commit message from python file">
-      <change afterPath="$PROJECT_DIR$/random/random26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/random27.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random25.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/random25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/random27.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/random27.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,16 +29,16 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/random/random9.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/random/random10.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/random/random6.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/random/random11.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/random/main.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/random/random13.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/random/random14.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/random/random6.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/random/random7.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/random/random 12.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/random/random11.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/random/random10.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/random/random9.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/random/random8.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/random/random13.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2a027UiWIq4sx3nFeR2rB5GdZsX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -190,10 +188,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.random27" />
+        <item itemvalue="Python.random17_SCR score" />
         <item itemvalue="Python.random26" />
         <item itemvalue="Python.random25" />
         <item itemvalue="Python.random14" />
-        <item itemvalue="Python.random17_SCR score" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708405025965</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="this is my commit message from python file">
+      <created>1708761197243</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708761197243</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
