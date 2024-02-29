@@ -18,7 +18,7 @@ def collatz_return_n(num:int)->int:
             num=num*3+1
         n+=1
     return n
-print(collatz_return_n(256))
+print(collatz_return_n(199))
 
 
 

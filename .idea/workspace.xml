@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="this is my commit message from python file">
-      <change afterPath="$PROJECT_DIR$/random/random30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/random31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/random32.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Data manipulation.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/random/Data manipulation.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/random32.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/random32.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <recent name="C:\Users\Liam\PycharmProjects\ramdon code\random" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.random31">
+  <component name="RunManager" selected="Python.random32">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,8 +188,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.random31" />
         <item itemvalue="Python.random32" />
+        <item itemvalue="Python.random31" />
         <item itemvalue="Python.random30" />
         <item itemvalue="Python.random29 - Harry CHEM class" />
         <item itemvalue="Python.random28" />
@@ -255,7 +254,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709104254431</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="this is my commit message from python file">
+      <created>1709230012941</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709230012941</updated>
+    </task>
+    <task id="LOCAL-00009" summary="this is my commit message from python file">
+      <created>1709230092964</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709230092964</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
