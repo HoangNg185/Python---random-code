@@ -18,4 +18,4 @@ for i in df.index:
     df.loc[i,'No2']=int(df.loc[i,'No'])*3+1
     df.loc[i,'collatz_return_n']=collatz_return_n(df.loc[i,'No'])
 
-df.to_excel('Data manipulation.xlsx')
+df.to_excel('Data manipulation.xlsx',index=False)
