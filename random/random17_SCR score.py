@@ -13,7 +13,7 @@ driver.get(url)
 # Wait for the JavaScript to load the table data
 # You may need to adjust the sleep time based on the page loading speed
 import time
-time.sleep(2)
+time.sleep(10)
 
 # Parse the HTML content after the JavaScript has loaded the table data
 soup = BeautifulSoup(driver.page_source, 'html.parser')

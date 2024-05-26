@@ -22,6 +22,12 @@ class Finance():
         pv_interest_payment=interest_payment*pv_interest_table4
         print(pv_interest_payment)
 
+    def prof_trading_crypto(self, captital:int, fee:int,r:float)->float:
+        initial=(1-fee)*captital
+        return -initial + initial*(1+r) - fee*initial*(1+r)
+
 
 question = Finance()
 question.present_value_bond(0.16,0.1,20000,19)
+
+print(question.prof_trading_crypto(1000,0.02,.09))
