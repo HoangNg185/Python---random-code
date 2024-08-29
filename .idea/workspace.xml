@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Some changes were made">
-      <change afterPath="$PROJECT_DIR$/random/1. Work and Delete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/Pokemon-copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/Pokemon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/os.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/random34 - Column Letter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/random35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/random36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/random37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/random40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/random41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/write to notepad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ramdon code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ramdon code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/3. Work and Delete.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/Data manipulation2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/random/Data manipulation2.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/myMath.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/myMath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random17_SCR score.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/random17_SCR score.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/1. Work and Delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/1. Work and Delete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/2. Useful note.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/2. Useful note.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pokemon (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2. Useful note" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +94,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/Pokemon.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/2. Useful note.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3. Work and Delete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ramdon code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/random" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/3. Work and Delete.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="os" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="random17_SCR score" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,28 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/os.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="random25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ramdon code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/random" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/random25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/random17_SCR score.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,10 +190,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.1. Work and Delete" />
+        <item itemvalue="Python.3. Work and Delete" />
+        <item itemvalue="Python.2. Useful note" />
+        <item itemvalue="Python.random17_SCR score" />
         <item itemvalue="Python.random41" />
-        <item itemvalue="Python.Pokemon (1)" />
-        <item itemvalue="Python.os" />
-        <item itemvalue="Python.random25" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +297,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709499940778</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Some changes were made">
+      <created>1716747791722</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716747791722</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Some changes were made">
+      <created>1718425958563</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1718425958563</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
