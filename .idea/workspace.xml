@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Some changes were made">
-      <change afterPath="$PROJECT_DIR$/random/3_Work_and_Delete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/temparature.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/1. Work and Delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/1. Work and Delete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/3. Work and Delete.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/Data manipulation.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/random/Data manipulation.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random2.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/4. Scraping Stock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random34 - Column Letter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random35.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random4.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/random4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random6.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/a_my_df.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/speechfile.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/random/speechfile.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/random/data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/random40.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/download_json_practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/random5.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/bs4_practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,27 +89,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1. Work and Delete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ramdon code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/random" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Liam\PycharmProjects\random code\random\1. Work and Delete.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="4. Scraping Stock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="a_my_df" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="download_json_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +122,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Liam\PycharmProjects\random code\random\a_my_df.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Liam\PycharmProjects\random code\random\download_json_practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ramdon code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/random" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="random4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="random 12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,7 +185,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/random4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/random 12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,10 +197,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.1. Work and Delete (1)" />
+        <item itemvalue="Python.download_json_practice" />
+        <item itemvalue="Python.random 12" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.4. Scraping Stock" />
-        <item itemvalue="Python.random4" />
-        <item itemvalue="Python.a_my_df" />
-        <item itemvalue="Python.1. Work and Delete" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724916307463</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Some changes were made">
+      <created>1734949810053</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1734949810053</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
