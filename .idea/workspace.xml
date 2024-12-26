@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Some changes were made" />
+    <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Some changes were made">
+      <change afterPath="$PROJECT_DIR$/random/6. Scanning PDF file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/1. Work and Delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/1. Work and Delete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/3_Work_and_Delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/3. Scraping WSJ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/4. Scraping Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/4. Scraping Stock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/a_my_df.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/5. Scaning image.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,9 +47,9 @@
     <setting file="file://$PROJECT_DIR$/random/random9.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/random/random8.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/random/random13.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/random/a_my_df.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/random/5. Scaning image.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/random/random7.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/random/3_Work_and_Delete.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/random/3. Scraping WSJ.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2a027UiWIq4sx3nFeR2rB5GdZsX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -62,7 +69,7 @@
       <recent name="C:\Users\Liam\PycharmProjects\ramdon code\random" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1. Work and Delete (1)">
+  <component name="RunManager" selected="Python.4. Scraping Stock">
     <configuration name="1. Work and Delete (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,6 +112,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="6. Scanning PDF file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ramdon code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/random" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/6. Scanning PDF file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="download_json_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,27 +146,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\Liam\PycharmProjects\random code\random\download_json_practice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ramdon code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/random" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4. Scraping Stock" />
+        <item itemvalue="Python.6. Scanning PDF file" />
         <item itemvalue="Python.1. Work and Delete (1)" />
         <item itemvalue="Python.download_json_practice" />
         <item itemvalue="Python.random 12" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.4. Scraping Stock" />
       </list>
     </recent_temporary>
   </component>

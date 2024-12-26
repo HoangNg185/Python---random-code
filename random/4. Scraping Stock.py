@@ -1,3 +1,4 @@
+import time
 from time import strftime
 
 import pandas as pd
@@ -6,6 +7,8 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
+
+start_time = time.time()
 
 chrome_options = Options()
 chrome_options.add_argument("--headless")
@@ -23,6 +26,7 @@ for i in df.index:
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
     response = requests.get(url, headers=headers)
+    time.sleep(2)
     soup = BeautifulSoup(response.text, "html.parser")
 
     percentage = soup.find('span', {'jsname': 'rfaVEf'})
@@ -34,4 +38,7 @@ for i in df.index:
         df.loc[i, today] = 0
 
 print(df.to_string())
-# df.to_csv('C:\\Users\\Liam\\OneDrive - Seneca\\Desktop\\1. Me\\stock_mysql.csv')
+df.to_csv('C:\\Users\\Liam\\OneDrive - Seneca\\Desktop\\1. Me\\stock_mysql.csv')
+end_time = time.time()
+elapsed_time = end_time - start_time
+print(f'Total time taken:{elapsed_time:.2f} seconds')
