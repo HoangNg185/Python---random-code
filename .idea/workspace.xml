@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Some changes were made">
-      <change afterPath="$PROJECT_DIR$/random/read.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/1. Work and Delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/1. Work and Delete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/5. Scaning image.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/5. Scaning image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/6. Scanning PDF file.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/6. Scanning PDF file.py" afterDir="false" />
-    </list>
+    <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Some changes were made" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -333,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1734949810053</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Some changes were made">
+      <created>1735531039207</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735531039207</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

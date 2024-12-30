@@ -1,0 +1,49 @@
+CHAPTER 1. Conceptual and Case Analysis Frameworks for Financial Reporting
+
+4. Compound financial instrument
+5. Property, plant, and equipment—impairment
+
+Hyde provides the following information with respect to each of these accounting differences.
+
+Future Income Taxes
+Hyde has been using the taxes payable method of reporting income taxes. Accordingly, it reported only the tax
+payable in the current year based on income tax laws and did not report any future income taxes assets or liabilities.
+Under IFRS, it would have reported deferred income tax liabilities of $190,000 at the end of Year 2 and $220,000 at
+the end of Year 3 along with a deferred income tax expense of $30,000 for Year 3.
+
+Property, Plant, and Equipment—Measurement Subsequent to Initial Recognition
+Hyde acquired equipment at the beginning of Year 2 at a cost of $250,000. The equipment has an estimated useful
+life of 10 years and an estimated residual value of $50,000, and is being depreciated on a straight-line basis. At
+the end of Year 2 and end of Year 3, the equipment was appraised and determined to have a fair value of $320,000
+and $330,000, respectively; its estimated useful life and residual value did not change. When Hyde adopts IFRS, it
+would use the allowed alternative treatment in IAS 16 to periodically revalue the equipment at fair value subsequent
+to acquisition. The revaluation surplus goes through OCI.
+
+Research and Development Costs
+
+Hyde incurred research and development costs of $100,000 in Year 3 and $250,000 prior to Year 3. Of these
+amounts, the $60,000 in Year 3 and $41,000 prior to Year 3 related to development activities after the point in time
+when the criteria for capitalization of development costs had been met. At the end of Year 3, development of the
+new product had not been completed, Hyde has been expensing all research and development costs as incurred, as
+allowed under ASPE.
+
+Compound Financial Instrument
+On January 1, Year 3, Hyde issued convertible debt for proceeds of $310,000. The debt can be converted to com-
+mon shares on or before December 31, Year 7. Otherwise, the principal amount of the debt, $300,000, is due on
+December 31, Year 8. Interest of $18,000 is due on December 31 each year. Hyde reported $300,000 of the pro-
+ceeds as long-term debt and $10,000 as contributed surplus, and expensed the interest payment when it was paid at
+the end of the year. Under IFRS, the proceeds should have been broken down to debt of $290,000 and contributed
+surplus of $20,000. The discount on the debt would be amortized using the effective interest method, which would
+have resulted in an additional interest expense of $760 for Year 3.
+
+Property, Plant, and Equipment—Impairment
+
+Hyde owns machinery on December 31, Year 3, with a carrying amount of $200,000, an estimated salvage
+value of $20,000, and an estimated remaining useful life of 10 years. On that date, there is an indication that the
+machinery may be impaired. The machinery is expected to generate future cash flows of $225,000 and has an
+estimated fair value, after deducting costs to sell, of $180,000. The present value of expected future cash flows
+is $186,000.
+
+Required
+Prepare a schedule reconciling ASPE profit and ASPE shareholders’ equity to an IFRS basis. Ignore income taxes on all
+items except for the future income tax item.
