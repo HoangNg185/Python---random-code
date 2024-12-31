@@ -31,9 +31,11 @@ for i in df.index:
 
     percentage = soup.find('span', {'jsname': 'rfaVEf'})
     changes = soup.find('span', {'jsname': 'qRSVye'})
+    #i want search sumbol at the beginning
     if percentage:
         df.loc[i, today] = f'{changes.get_text()[0]}{percentage.get_text()[1:-1]}'
         print(df.loc[i, today])
+    #i want every non-searchable stock pronted oit also
     else:
         df.loc[i, today] = 0
 
