@@ -32,12 +32,18 @@ for i in df.index:
     percentage = soup.find('span', {'jsname': 'rfaVEf'})
     changes = soup.find('span', {'jsname': 'qRSVye'})
     #i want search sumbol at the beginning
+    '''
+    df.loc[i,'search_symbol']=df.loc[i, today]
+    '''
     if percentage:
         df.loc[i, today] = f'{changes.get_text()[0]}{percentage.get_text()[1:-1]}'
         print(df.loc[i, today])
     #i want every non-searchable stock pronted oit also
     else:
         df.loc[i, today] = 0
+        '''
+        print(df.loc[i,'search_symbol']=df.loc[i, today]
+        '''
 
 print(df.to_string())
 df.to_csv('C:\\Users\\Liam\\OneDrive - Seneca\\Desktop\\1. Me\\stock_mysql.csv')
