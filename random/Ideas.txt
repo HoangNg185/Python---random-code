@@ -7,3 +7,4 @@ Initiating ideas:
 6.use and stydy and creat algorytm which creace data, ask user feedback, input user responses, train new module and create new data. Just like online AI does
 7.ask if we can have nice turtle setting to draw
 8.scan online book/kindle to txt file so i can read every where
+9. cooking book. make cooking section with exotic materials
