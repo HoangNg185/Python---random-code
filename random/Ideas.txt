@@ -1,0 +1,8 @@
+Initiating ideas:
+1. creat time table
+2. import time to notify pre-set scheadule
+3.import voices
+4.use os to open chrome, better if we can specify which window to open
+5.asl of we can use camera to recognize user reaction
+6.use and stydy and creat algorytm which creace data, ask user feedback, input user responses, train new module and create new data. Just like online AI does
+7.ask if we can have nice turtle setting to draw
