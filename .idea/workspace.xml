@@ -2,73 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Some changes were made">
-      <change afterPath="$PROJECT_DIR$/random/7. Generate AI voice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/8. Init Scheadule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/AI recognization.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/entertain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/random/1. Work and Delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/1. Work and Delete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/Data manipulation.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/Data manipulation2.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/Harry class data.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/Knock.m4a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/Pokemon-copy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/Pokemon.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/VoiceRecognition.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/WSJ.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/aapl1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/random/Old stuff/aapl1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/aapl16_no_dates.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/aapl2_no_dates.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/aapl3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/asd.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/bs4_practice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/data.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/data3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/data3decision.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/dataset.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/diamons excel.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/download_json_practice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/modified_orders.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/myMath.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/myQRcode.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/os.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random 12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random17_SCR score.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random27TreeNode.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random28.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random29 - Harry CHEM class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random30 - review Prime_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random31 - find collatz_n.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random32 - data manipulation, auto save tuned data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random33 - 1 excel 2 sheet method.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random36.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random37.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random41.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/random_numbers.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/random/read.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/speechfile.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/temparature.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/testing note pad writing.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/write to notepad.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Ideas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/random/Ideas.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,9 +37,9 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/random/1. Work and Delete.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/random/5. Scaning image.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/random/3. Scraping WSJ.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Random/1. Work and Delete.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Random/5. Scaning image.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Random/3. Scraping WSJ.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2a027UiWIq4sx3nFeR2rB5GdZsX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -122,7 +60,7 @@
       <recent name="C:\Users\Liam\PycharmProjects\ramdon code\random" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1. Work and Delete (1)">
+  <component name="RunManager" selected="Python.1. Work and Delete">
     <configuration name="1. Work and Delete (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,6 +74,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/1. Work and Delete.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1. Work and Delete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ramdon code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random/1. Work and Delete.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4. Scraping Stock (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ramdon code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random/4. Scraping Stock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,27 +145,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5. Scaning image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ramdon code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/random" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/5. Scaning image.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="6. Scanning PDF file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,27 +158,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/6. Scanning PDF file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="download_json_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ramdon code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/random" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Liam\PycharmProjects\random code\random\download_json_practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1. Work and Delete" />
+        <item itemvalue="Python.4. Scraping Stock (1)" />
         <item itemvalue="Python.1. Work and Delete (1)" />
         <item itemvalue="Python.4. Scraping Stock" />
         <item itemvalue="Python.6. Scanning PDF file" />
-        <item itemvalue="Python.5. Scaning image" />
-        <item itemvalue="Python.download_json_practice" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +339,21 @@
       <option name="project" value="LOCAL" />
       <updated>1735815387311</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Some changes were made">
+      <created>1735899458688</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735899458688</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Some changes were made">
+      <created>1735899483723</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1735899483723</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
