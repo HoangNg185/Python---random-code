@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Some changes were made">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Random/0. Ideas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Random/0. Ideas.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/build/4. Scraping Stock/4. Scraping Stock.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/build/4. Scraping Stock/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/read.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/0. Ideas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Ideas.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -409,7 +405,21 @@
       <option name="project" value="LOCAL" />
       <updated>1736317346361</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Some changes were made">
+      <created>1736506444177</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1736506444178</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Some changes were made">
+      <created>1736506505936</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1736506505936</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
