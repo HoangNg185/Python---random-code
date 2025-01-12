@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Some changes were made">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-01-03_8_49_p_m__[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-01-03_8_49_p_m___Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random/6. Scanning PDF file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random/6. Scanning PDF file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random/7. Generate AI voice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random/7. Generate AI voice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/random/0. Ideas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Ideas.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +57,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Liam\PycharmProjects\random code\Random\Data" />
+      <recent name="C:\Users\Liam\PycharmProjects\random code\Random\Outputs" />
+      <recent name="C:\Users\Liam\PycharmProjects\random code\Random" />
+      <recent name="C:\Users\Liam\PycharmProjects\random code" />
       <recent name="C:\Users\Liam\PycharmProjects\random code\random\Old stuff" />
-      <recent name="C:\Users\Liam\PycharmProjects\ramdon code\random" />
     </key>
   </component>
   <component name="RunManager" selected="Python.4. Scraping Stock (1)">
@@ -419,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736506505936</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Some changes were made">
+      <created>1736506560993</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1736506560993</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
