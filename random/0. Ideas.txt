@@ -2,16 +2,10 @@ Initiating ideas:
 1. creat time table
 2. import time to notify pre-set scheadule
 3.import voices
-4.use os to open chrome, better if we can specify which window to open
-5.asl of we can use camera to recognize user reaction
 6.use and stydy and creat algorytm which creace data, ask user feedback, input user responses, train new module and create new data. Just like online AI does
-8.scan online book/kindle to txt file so i can read every where
 9. cooking book. make cooking section with exotic materials
-10.checkout old photos
 11. scrap WSJ
 
-12. Buffet with mom. Don't disappoint!
-13. create Data folder. Can't the file is lnk not csv?
 
 
 Cooking links:
