@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Some changes were made">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-01-03_8_49_p_m__[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-01-03_8_49_p_m___Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/3. Scraping WSJ_init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/timetable.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Random/6. Scanning PDF file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random/6. Scanning PDF file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Random/7. Generate AI voice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random/7. Generate AI voice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/0. Ideas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Ideas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/1. Work and Delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/1. Work and Delete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/3. Scraping WSJ.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/8. Init Scheadule.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/8. Init Scheadule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/8.timetable.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Random/3. Scraping WSJ.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Random/3. Scraping WSJ_init.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Random/5. Scaning image.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Random/1. Work and Delete.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -53,6 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -136,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/random" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random/4. Scraping Stock.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Liam\PycharmProjects\random code\Random\4. Scraping Stock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4. Scraping Stock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8. Init Scheadule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Liam\PycharmProjects\random code\Random\4. Scraping Stock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random/8. Init Scheadule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,10 +217,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.4. Scraping Stock (1)" />
-        <item itemvalue="Python.entertain" />
         <item itemvalue="Python.1. Work and Delete" />
+        <item itemvalue="Python.8. Init Scheadule" />
+        <item itemvalue="Python.entertain" />
         <item itemvalue="Python.1. Work and Delete (1)" />
-        <item itemvalue="Python.4. Scraping Stock" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +436,21 @@
       <option name="project" value="LOCAL" />
       <updated>1736506560993</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Some changes were made">
+      <created>1736684956415</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1736684956415</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Some changes were made">
+      <created>1736684984733</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1736684984733</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

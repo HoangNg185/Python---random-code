@@ -4,7 +4,7 @@ from datetime import datetime
 import pandas as pd
 import pygame
 
-df = pd.read_csv('8.timetable.csv')
+df = pd.read_csv('timetable.csv')
 df.columns = df.columns.str.strip()
 
 
