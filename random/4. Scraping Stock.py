@@ -22,14 +22,14 @@ df[today] = ''
 
 for i in df.index:
     name = df.loc[i, 'search_symbol']
-    url = f"https://www.google.com/search?q=stock+{name}"
+    url = f"https://www.google.com/search?q=stock+ {name}"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
     response = requests.get(url, headers=headers)
     time.sleep(5)
     soup = BeautifulSoup(response.text, "html.parser")
 
-    percentage = soup.find('span', {'jsname': 'rfaVEf'})
+    percentage = soup.find('span', {'jsname': 'rfaVEf'})  # something wrong with this 'percentage', cant find
     changes = soup.find('span', {'jsname': 'qRSVye'})
     # i want search sumbol at the beginning
     '''
@@ -42,6 +42,8 @@ for i in df.index:
     else:
         df.loc[i, today] = 0
         print(f'{df.loc[i, "search_symbol"]}:{df.loc[i, today]}')
+        print('cant find')
+        print(percentage)
 
 print(df.to_string())
 df.to_csv('Outputs\\stock_mysql.csv')

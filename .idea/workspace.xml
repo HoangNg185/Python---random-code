@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Some changes were made">
-      <change afterPath="$PROJECT_DIR$/random/9. Monkey Scheadule_init.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/0. Ideas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Ideas.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/8. Init Scheadule.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/8. Init Scheadule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/timetable.csv" beforeDir="false" afterPath="$PROJECT_DIR$/random/timetable.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random/0. Ideas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Random/0. Ideas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/4. Scraping Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/4. Scraping Stock.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <recent name="C:\Users\Liam\PycharmProjects\random code\random\Old stuff" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9. Monkey Scheadule_init">
+  <component name="RunManager" selected="Python.4. Scraping Stock (1)">
     <configuration name="1. Work and Delete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,10 +191,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.9. Monkey Scheadule_init" />
+        <item itemvalue="Python.4. Scraping Stock (1)" />
         <item itemvalue="Python.8. Init Scheadule" />
         <item itemvalue="Python.1. Work and Delete" />
-        <item itemvalue="Python.4. Scraping Stock (1)" />
+        <item itemvalue="Python.9. Monkey Scheadule_init" />
         <item itemvalue="Python.entertain" />
       </list>
     </recent_temporary>
@@ -441,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736921991689</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Some changes were made">
+      <created>1736924519890</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1736924519890</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
