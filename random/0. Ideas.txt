@@ -1,17 +1,12 @@
 Initiating ideas:
-1. creat time table
+1. creat timetable
 2. import time to notify pre-set scheadule
 3.import voices
 6.use and stydy and creat algorytm which creace data, ask user feedback, input user responses, train new module and create new data. Just like online AI does
 9. cooking book. make cooking section with exotic materials
 11. scrap WSJ
 12. use differenct date format for timetable eg. jan 24 10:30
+12.continue work with food.csv in data folder
+13.continue on file no 8 and 9
 
-
-Cooking links:
-honey chicken, apple cider, sear brocoli
-1. https://www.youtube.com/watch?v=3SqoPSO_W9U
-teri chicken garlic butter udon
-2. https://www.youtube.com/watch?v=zkBEHKAl0Kk
-
-need white pepper powder, mustard, unsalted butter
+14. need white pepper powder, mustard, unsalted butter
