@@ -9,7 +9,7 @@ df['Time'] = pd.to_datetime(df['Time'], format='%H:%M').apply(
 df['Due'] = 0
 
 
-# '''df['Due'] = df['Due'].astype(time)'''
+# '''df['Due'] = df['Due'].astype(time)''' df['Due'] will appear error at the beginning. however, the code work kust fine, error shown due to many dtypenwithin a column
 
 def run_time():
     while True:

@@ -5,7 +5,7 @@ Initiating ideas:
 6.use and stydy and creat algorytm which creace data, ask user feedback, input user responses, train new module and create new data. Just like online AI does
 9. cooking book. make cooking section with exotic materials
 11. scrap WSJ
-
+12. use differenct date format for timetable eg. jan 24 10:30
 
 
 Cooking links:
