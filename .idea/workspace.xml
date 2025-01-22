@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Some changes were made">
-      <change afterPath="$PROJECT_DIR$/random/Data/Food.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/0. Ideas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Ideas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/timetable.csv" beforeDir="false" afterPath="$PROJECT_DIR$/random/timetable.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
       <recent name="C:\Users\Liam\PycharmProjects\random code\random\Old stuff" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4. Scraping Stock (1)">
+  <component name="RunManager" selected="Python.1. Work and Delete">
     <configuration name="1. Work and Delete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,10 +190,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4. Scraping Stock (1)" />
-        <item itemvalue="Python.8. Init Scheadule" />
         <item itemvalue="Python.1. Work and Delete" />
         <item itemvalue="Python.9. Monkey Scheadule_init" />
+        <item itemvalue="Python.4. Scraping Stock (1)" />
+        <item itemvalue="Python.8. Init Scheadule" />
         <item itemvalue="Python.entertain" />
       </list>
     </recent_temporary>
