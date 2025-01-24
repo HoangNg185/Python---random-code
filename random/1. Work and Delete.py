@@ -50,7 +50,7 @@ print(month_length)
 weekdays = {0: 'Monday', 1: 'Tuesday', 2: 'Wednesday', 3: 'Thursday', 4: 'Friday', 5: 'Saturday', 6: 'Sunday'}
 start = {1: '10:45', 2: '10:45', 4: '10:00', 5: '10:00', 0: None, 3: None, 6: None}
 end = {1: '11:00', 2: '11:00', 4: '8:00', 5: '8:00', 0: None, 3: None, 6: None}
-breakk = {1: '1:00', 0: '0:00', 2: '0:00', 3: '0:00', 4: '0:00', 5: '0:00', 6: '0:00', }
+breakk = {1: '0:00', 0: '0:00', 2: '1:00', 3: '0:00', 4: '1:00', 5: '1:00', 6: '0:00', }
 
 dates = []
 for i in range(1, month_length + 1):
@@ -61,7 +61,13 @@ for i in df.index:
     df.loc[i, 'start'] = start[df.loc[i, 'Date'].weekday()]
     df.loc[i, 'end'] = end[df.loc[i, 'Date'].weekday()]
     df.loc[i, 'break'] = breakk[df.loc[i, 'Date'].weekday()]
-
+df['start'] = pd.to_datetime(df['start'], format='%H:%M')
+df['end'] = pd.to_datetime(df['end'], format='%H:%M')
+df['break'] = pd.to_datetime(df['break'], format='%H:%M')
+df['separate'] = '12:00:00'
+df['separate'] = pd.to_timedelta(df['separate'])
+# just need to ensure !<0:00, !>24:00, !against 0:00. timedelta can maybe deal with exceed 24:00. need to work more on that
+df['total'] = df['end'] + df['separate'] - df['start'] + df['end']
 df = df.dropna()
 
 df.to_csv('Outputs\\monkey_new.csv')
