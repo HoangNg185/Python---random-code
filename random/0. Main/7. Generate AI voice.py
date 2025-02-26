@@ -8,7 +8,7 @@ def text_to_speech(txt_file_path, output_audio_file):
             text = file.read()
 
         # Convert text to speech
-        tts = gTTS(text, lang='en')
+        tts = gTTS(text, lang='fr')
 
         # Save the audio file
         tts.save(output_audio_file)
@@ -25,4 +25,4 @@ txt_file_path = 'example.txt'  # Replace with your .txt file path
 output_audio_file = 'output.mp3'  # Output audio file name
 
 # Convert text to speech
-text_to_speech('Outputs/PDF_output_gambler_3.txt', 'Outputs/output_voice_gambler_3.mp3')
+text_to_speech('Inputs/PDF_output_gambler_3.txt', 'Outputs/output_voice_gambler_3.mp3')
