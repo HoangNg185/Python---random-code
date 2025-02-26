@@ -43,7 +43,7 @@ from datetime import datetime
 
 import pandas as pd
 
-year, month = 2025, 1
+year, month = 2025, 2
 month_length = calendar.monthrange(year, month)[1]
 print(month_length)
 
@@ -67,7 +67,7 @@ df['break'] = pd.to_datetime(df['break'], format='%H:%M')
 df['separate'] = '12:00'
 df['separate'] = pd.to_datetime(df['separate'], format='%H:%M')
 
-df['total'] = df['end'] + df['separate'] - df['start'] - df['end']
+# df['total'] = df['end'] + df['separate'] - df['start'] - df['end']
 df = df.dropna()
 
 df.to_csv('Outputs\\monkey_new.csv')
