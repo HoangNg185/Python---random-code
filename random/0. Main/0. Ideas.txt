@@ -3,6 +3,7 @@ Initiating ideas:
 2.voice recording eng et francais
 3. translate code
 4. code: check noun/verb/gender - francais
+5. HTML - finance
 11. scrap WSJ
 
 
