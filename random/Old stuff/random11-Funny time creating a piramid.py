@@ -1,4 +1,4 @@
-total_row = 100
+total_row = 10
 star_repeat = 1
 space = ' '
 move = 1

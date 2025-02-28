@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Some changes were made">
+    <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change afterPath="$PROJECT_DIR$/random/Old stuff/Summary directory names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/Old stuff/random11-Funny time creating a piramid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/Old stuff/random17- Text - voice generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/Old stuff/random18 - Voice Regconition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/Old stuff/random8-QRcode generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/1.Work_and_Delete_no2.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/1.Work_and_Delete_no2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/10. Français.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/10. Français.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/7. Generate AI voice.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/7. Generate AI voice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/Outputs/PDF_output_gambler_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/random/Outputs/PDF_output_gambler_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/Outputs/output_voice_gambler_3.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/random/Outputs/output_voice_gambler_3.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random/Old stuff/os.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random/Old stuff/os.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/0. Main/1. Work and Delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Main/1. Work and Delete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/0. Main/enregistrement.wav" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Main/enregistrement.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/Pokemon-copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/VoiceRecognition.txt" beforeDir="false" afterPath="$PROJECT_DIR$/random/Old stuff/VoiceRecognition.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random 12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random27TreeNode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/random9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/speechfile.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/random/Old stuff/speechfile.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/testing note pad writing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/Old stuff/write to notepad.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +64,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Random/3. Scraping WSJ_init.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Random/5. Scaning image.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Random/1. Work and Delete.py" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="ProjectId" id="2a027UiWIq4sx3nFeR2rB5GdZsX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -65,8 +87,8 @@
       <recent name="C:\Users\Liam\PycharmProjects\random code\random\Old stuff" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7. Generate AI voice">
-    <configuration name="10. Français" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.download_json_practice">
+    <configuration name="Pokemon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random/Old stuff" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random/10. Français.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random/Old stuff/Pokemon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1. Work and Delete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Summary directory names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random/Old stuff" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random/1. Work and Delete.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Liam\PycharmProjects\random code\Random\Old stuff\Summary directory names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.Work_and_Delete_no2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="download_json_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random/Old stuff" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random/1.Work_and_Delete_no2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random/Old stuff/download_json_practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7. Generate AI voice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,32 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random/Old stuff" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random/7. Generate AI voice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="9. Monkey Scheadule_init" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ramdon code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random/9. Monkey Scheadule_init.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random/Old stuff/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,13 +193,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="os" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ramdon code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random/Old stuff" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random/Old stuff/os.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.7. Generate AI voice" />
-        <item itemvalue="Python.1.Work_and_Delete_no2" />
-        <item itemvalue="Python.10. Français" />
-        <item itemvalue="Python.9. Monkey Scheadule_init" />
-        <item itemvalue="Python.1. Work and Delete" />
+        <item itemvalue="Python.download_json_practice" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.os" />
+        <item itemvalue="Python.Pokemon" />
+        <item itemvalue="Python.Summary directory names" />
       </list>
     </recent_temporary>
   </component>
@@ -498,7 +520,21 @@
       <option name="project" value="LOCAL" />
       <updated>1740561271810</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1740711664048</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1740711664048</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1740711697051</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1740711697051</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +565,8 @@
     <MESSAGE value="this is my commit message from python file" />
     <MESSAGE value="Made some changes about Prime, Collatz_n" />
     <MESSAGE value="Some changes were made" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some changes were made" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

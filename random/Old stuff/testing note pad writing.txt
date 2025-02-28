@@ -1,5 +1,0 @@
-
-<ul>apple</ul>
-<dt>pixa</dt>
-<dt>orange</dt>
-<dd>avocado</dd>

@@ -11,4 +11,4 @@ import os
 
 for dirname, _, filenames in os.walk('C:\\Users\\Liam\\PycharmProjects\\random code\\random'):
     for filename in filenames:
-        os.path.join(dirname, filename)
+        print(os.path.join(dirname, filename))
