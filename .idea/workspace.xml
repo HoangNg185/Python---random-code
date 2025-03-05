@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/random/0. Main/0.1 My_program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/0. Main/WSJ.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/0. Main/Ekko.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/0. Main/Papaoutai.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/0. Main/0. Ideas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Main/0. Ideas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/0. Main/0.1 My_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Main/0.1 My_program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/random/0. Main/1. Work and Delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Main/1. Work and Delete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/0. Main/enregistrement.wav" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Main/enregistrement.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/0. Main/transcription.txt" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Main/transcription.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/Old stuff/random17_SCR score.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/Old stuff/random8-QRcode generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/Old stuff/random8-QRcode generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random/0. Main/WSJ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Main/WSJ.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="settings.editor.selected.configurable" value="RainbowCSV.Settings" />
+    <property name="settings.editor.selected.configurable" value="Csv.Editor.Settings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -193,8 +190,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.0.1 My_program" />
-        <item itemvalue="Python.random8-QRcode generator" />
         <item itemvalue="Python.1. Work and Delete" />
+        <item itemvalue="Python.random8-QRcode generator" />
         <item itemvalue="Python.download_json_practice" />
         <item itemvalue="Python.main (1)" />
       </list>
@@ -531,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740714985612</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1740738168652</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1740738168652</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
