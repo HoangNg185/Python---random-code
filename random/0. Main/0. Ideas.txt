@@ -1,9 +1,8 @@
 Initiating ideas:
-1. HTML-PR
 2.voice recording eng et francais
-3. translate code
+3. translation program
 4. code: check noun/verb/gender - francais
-5. HTML - finance
+5. get image from website, just given a key word
 11. scrap WSJ
 
 
