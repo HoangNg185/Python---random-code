@@ -126,8 +126,6 @@ def generate_QR_code(link):
     qr_label.pack()
 
     window.mainloop()
-
-
 def WSJ_to_My_profile(message=''):
     import pandas as pd
     df = pd.read_csv('WSJ.csv')
@@ -139,8 +137,6 @@ def WSJ_to_My_profile(message=''):
 
         print(f'        <li><a href="{link}" target="_blank">{title}</a></li>')
     print(f'    </ul>')
-
-
 def consider_1():
     import calendar
 
@@ -213,8 +209,6 @@ def consider_1():
     print(f"📆 Ce jour est : {jour_semaine_nom.capitalize()} (jour numéro {jour_semaine_num})")
     print(f"📅 Mois numéro : {mois_num}")
     print(f"📅 Année : {annee}")
-
-
 def quelle_heuer_est_il():
     import random
 
@@ -225,8 +219,6 @@ def quelle_heuer_est_il():
         numéro = random.randint(0, 100)
         print(f'Vos chiffres sont: {numéro}')
     print('le (premier/ deuxième/ troisième) numéro est ___')
-
-
 def change_file_names_to_number(link):
     import os
     num = 0
@@ -239,8 +231,6 @@ def change_file_names_to_number(link):
             new_path = os.path.join(a, new_name)
             print(f'Changes from {old_path} ------{new_path}')
             os.rename(old_path, new_path)
-
-
 def open_image_by_number(num):
     folder = 'C:\\Users\\Liam\\OneDrive - Seneca\\Pictures\\Saved Pictures'
 
@@ -252,9 +242,9 @@ def open_image_by_number(num):
                 img = Image.open(filepath)
                 img.show()
                 return  # Stop after showing one match (optional)
-
-
+# Donne-moi du vocabulaire pour les ___?
 # -----------------------------------------------------------
+from Vocabulaire import *
 def download_images(search_query='Cat', num_images=5):
     import requests
     from PIL import Image
@@ -281,8 +271,6 @@ def download_images(search_query='Cat', num_images=5):
             print(f"Downloaded: {filename}")
         except Exception as e:
             print(f"Failed to download {url}: {e}")
-
-
 def show_images(query='active dog', num_images=1, size="Medium", type_image="Photo", safe="off"):
     import requests
     from PIL import Image
@@ -317,98 +305,41 @@ def show_images(query='active dog', num_images=1, size="Medium", type_image="Pho
             print(f"Failed to fetch {url}: {e}")
 
 
-french_nouns = [
-    "Bonjour",  # Hello
-    "Au revoir",  # Goodbye
-    "Oui",  # Yes
-    "Non",  # No
-    "Merci",  # Thank you
-    "Désolé",  # Sorry
-    "Excusez-moi",  # Excuse me
-    "Maison",  # House
-    "Porte",  # Door
-    "Fenêtre",  # Window
-    "Chaise",  # Chair
-    "Table",  # Table
-    "Lit",  # Bed
-    "Lumière",  # Light
-    "Téléphone",  # Phone
-    "Voiture",  # Car
-    "Clé",  # Key
-    "Eau",  # Water
-    "Pain",  # Bread
-    "Fromage",  # Cheese
-    "Café",  # Coffee
-    "Thé",  # Tea
-    "Vin",  # Wine
-    "Pomme",  # Apple
-    "Lait",  # Milk
-    "Poulet",  # Chicken
-    "Poisson",  # Fish
-    "Aujourd'hui",  # Today
-    "Demain",  # Tomorrow
-    "Hier",  # Yesterday
-    "Matin",  # Morning
-    "Soir",  # Evening
-    "Lundi",  # Monday
-    "Mardi",  # Tuesday
-    "Mercredi",  # Wednesday
-    "Jeudi",  # Thursday
-    "Vendredi",  # Friday
-    "Samedi",  # Saturday
-    "Dimanche",  # Sunday
-    "Soleil",  # Sun
-    "Pluie",  # Rain
-    "Vent",  # Wind
-    "Neige",  # Snow
-    "Ciel",  # Sky
-    "Rivière",  # River
-    "Montagne",  # Mountain
-    "Arbre",  # Tree
-    "Fleur",  # Flower
-    "Mer",  # Sea
-    "Prix",  # Price
-    "Argent",  # Money
-    "Magasin",  # Store
-    "Vêtements",  # Clothes
-    "Chaussures",  # Shoes
-    "Sac",  # Bag
-    "Promotion",  # Sale
-    "Danger",  # Danger
-    "Police",  # Police
-    "Hôpital",  # Hospital
-    "Médecin",  # Doctor
-    "Feu",  # Fire
-]
-legumes = [
-    "carotte",  # carrot
-    "pomme de terre",  # potato
-    "tomate",  # tomato
-    "courgette",  # zucchini
-    "oignon",  # onion
-    "ail",  # garlic
-    "poivron",  # bell pepper
-    "épinard",  # spinach
-    "brocoli",  # broccoli
-    "chou",  # cabbage
-    "haricot vert",  # green bean
-    "concombre",  # cucumber
-    "petit pois",  # pea
-    "aubergine",  # eggplant
-    "radis",  # radish
-    "laitue",  # lettuce
-    "navet",  # turnip
-    "champignon",  # mushroom
-    "betterave",  # beetroot
-    "poireau"  # leek
-]
+def read_french_word(word):
+    import os
+    import pygame
+    from gtts import gTTS
+    # Generate the audio file
+    tts = gTTS(text=word, lang='fr')
+    tts.save("word.mp3")
+
+    # Initialize pygame mixer
+    pygame.mixer.init()
+    pygame.mixer.music.load("word.mp3")
+    pygame.mixer.music.play()
+
+    # Wait until the sound finishes playing
+    while pygame.mixer.music.get_busy():
+        pygame.time.Clock().tick(10)
+
+    # Stop and release the file
+    pygame.mixer.music.stop()
+    pygame.mixer.quit()
+
+    # Now it's safe to delete the file
+    os.remove("word.mp3")
 
 
-def random_images_from_your_list(your_list=legumes):
-    import random
-    a = 0
-    while a < 100:
-        a += 1
-        word = random.choice(your_list)
-        show_images(word)
 # -----------------------------------------------------------
+def read_and_image_from_list(your_list=legumes):
+    a = -1
+    while True:
+        a += 1
+        # word = random.choice(your_list)
+        word = your_list[a]
+        print(f'{a}:{your_list[a]}')
+        read_french_word(word)
+        # show_images(word)
+
+
+read_and_image_from_list(les_formes)
