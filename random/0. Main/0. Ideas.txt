@@ -1,8 +1,13 @@
 Initiating ideas:
+1. Github in an infinate storage (images for now, like cloud but free)
 2.voice recording eng et francais
 3. translation program
 4. code: check noun/verb/gender - francais
-5. get image from website, just given a key word
+5. read after the paragraph
+5. languages,populaire song, les nombres ordinaux
+6. quelques: a few. not 'what', its not a question, right?
+7. mois, saison,semaine, jours
+
 11. scrap WSJ
 
 
