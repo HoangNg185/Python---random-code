@@ -342,4 +342,4 @@ def read_and_image_from_list(your_list=legumes):
         # show_images(word)
 
 
-read_and_image_from_list(les_formes)
+read_and_image_from_list(verbs)
