@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="396e5594-fa1c-43de-b9fd-e79445d87faa" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/0. Main/0.1 My_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Main/0.1 My_program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/0. Main/1. Work and Delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Main/1. Work and Delete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/0. Main/1.Work_and_Delete_no2.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Main/1.Work_and_Delete_no2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/0. Main/Vocabulaire.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Main/Vocabulaire.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/0. Main/WSJ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/random/0. Main/WSJ.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +55,7 @@
       <recent name="C:\Users\Liam\PycharmProjects\random code" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.0.1 My_program">
+  <component name="RunManager" selected="Python.1. Work and Delete">
     <configuration name="0.1 My_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ramdon code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,8 +184,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0.1 My_program" />
         <item itemvalue="Python.1. Work and Delete" />
+        <item itemvalue="Python.0.1 My_program" />
         <item itemvalue="Python.Vocabulaire" />
         <item itemvalue="Python.random8-QRcode generator" />
         <item itemvalue="Python.download_json_practice" />
@@ -205,20 +200,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703441008380</updated>
-    </task>
-    <task id="LOCAL-00004" summary="this is my commit message from python file">
-      <created>1708405025965</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1708405025965</updated>
-    </task>
-    <task id="LOCAL-00005" summary="this is my commit message from python file">
-      <created>1708761197243</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1708761197243</updated>
     </task>
     <task id="LOCAL-00006" summary="this is my commit message from python file">
       <created>1709002185433</created>
@@ -549,7 +530,21 @@
       <option name="project" value="LOCAL" />
       <updated>1741502901645</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1742254271970</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1742254271970</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1742254278536</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1742254278536</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
