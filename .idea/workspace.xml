@@ -201,20 +201,6 @@
       <option name="presentableId" value="Default" />
       <updated>1703441008380</updated>
     </task>
-    <task id="LOCAL-00006" summary="this is my commit message from python file">
-      <created>1709002185433</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1709002185433</updated>
-    </task>
-    <task id="LOCAL-00007" summary="this is my commit message from python file">
-      <created>1709104254431</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1709104254431</updated>
-    </task>
     <task id="LOCAL-00008" summary="this is my commit message from python file">
       <created>1709230012941</created>
       <option name="number" value="00008" />
@@ -544,7 +530,21 @@
       <option name="project" value="LOCAL" />
       <updated>1742254278536</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1742263195635</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1742263195635</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1742263200531</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1742263200531</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
