@@ -275,3 +275,36 @@ verbs = [
     "faire confiance",  # to trust
     "mettre à jour",  # to update
 ]
+
+couleurs = [
+    "rouge",  # red
+    "bleu",  # blue
+    "vert",  # green
+    "jaune",  # yellow
+    "orange",  # orange
+    "noir",  # black
+    "blanc",  # white
+    "gris",  # gray
+    "rose",  # pink
+    "violet",  # purple
+    "marron",  # brown
+    "beige",  # beige
+    "turquoise",  # turquoise
+    "argent",  # silver
+    "or",  # gold
+    "bordeaux",  # burgundy
+    "cyan",  # cyan
+    "émeraude",  # emerald green
+    "indigo",  # indigo
+    "lavande",  # lavender
+    "magenta",  # magenta
+    "olive",  # olive green
+    "sable",  # sand
+    "saumon",  # salmon
+    "crème",  # cream
+    "corail",  # coral
+    "aubergine",  # eggplant purple
+    "ivoire",  # ivory
+    "chocolat",  # chocolate brown
+    "cerise",  # cherry red
+]

@@ -10,8 +10,8 @@ colors_with_hex = {
     "bordeaux": "#800000", "cyan": "#00FFFF", "émeraude": "#50C878",
     "indigo": "#4B0082", "lavande": "#E6E6FA", "magenta": "#FF00FF",
     "olive": "#808000", "sable": "#C2B280", "saumon": "#FA8072",
-    "crème": "#FFFDD0", "corail": "#FF7F50", "aubergine": "#6E0B14",
-    "ivoire": "#FFFFF0", "chocolat": "#D2691E", "cerise": "#DE3163"
+    "crème": "#FFFDD0", "corail": "#FF7F50", "aubergine": "#61006d",
+    "ivoire": "#FFFFF0", "chocolat": "#5a3a22", "cerise": "#DE3163"
 }
 
 # Create the figure and axis
