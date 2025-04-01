@@ -329,7 +329,13 @@ def read_french_word(word):
     # Now it's safe to delete the file
     os.remove("word.mp3")
 
-
+def xlsx_to_list(list_name='la_le_les'):
+    import pandas as pd
+    df = pd.read_excel('C:\\Users\\Liam\\OneDrive - Seneca\\Desktop\\1. Me\\1. My hln excel.xlsx', sheet_name='Word')
+    list = []
+    for i in df.index:
+        list.append(df.loc[i, df.columns[0]])
+    print(f'{df.columns[0]}={list}')
 # -----------------------------------------------------------
 def read_and_image_from_list(your_list=legumes):
     a = -1
@@ -342,4 +348,16 @@ def read_and_image_from_list(your_list=legumes):
         # show_images(word)
 
 
-read_and_image_from_list(couleurs)
+dicta = {'sun': 'dimanche',
+         'mon': 'lundi'}
+
+text = "bonsoir patron, c'est maintenant sun mar 30 19:49 2025"
+
+
+def replace(your_text='sun'):
+    for key, value in dicta.items():
+        your_text = your_text.replace(key, value)
+    read_and_image_from_list([your_text])
+
+
+read_and_image_from_list(les_animaux)

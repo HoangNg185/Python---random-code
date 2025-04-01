@@ -308,3 +308,61 @@ couleurs = [
     "chocolat",  # chocolate brown
     "cerise",  # cherry red
 ]
+
+pieces_maison = [
+    # Espaces principaux
+    "salon",  # living room
+    "cuisine",  # kitchen
+    "chambre",  # bedroom
+    "salle de bain",  # bathroom
+    "toilettes",  # toilets/restroom
+    "salle à manger",  # dining room
+    "entrée",  # entrance/hallway
+    "couloir",  # corridor/hallway
+    "garage",  # garage
+    "cave",  # basement/cellar
+    "grenier",  # attic
+    "bureau",  # office/study
+    "buanderie",  # laundry room
+    "dressing",  # walk-in closet/dressing room
+    "balcon",  # balcony
+    "terrasse",  # terrace
+    "jardin",  # garden
+    "véranda",  # veranda/sunroom
+    "penderie",  # closet/wardrobe
+    "cellier",  # pantry
+]
+
+les_vêtements = ['acheter', 'commander en ligne', 'échanger', 'enlever', 'essayer', 'faire du shopping', 'laver',
+                 'mettre', 'porter', 'retourner', "S'habiller", 'Se changer', 'Se déshabiller', 'trop petit',
+                 'trop grand', 'mal taillé', 'des chaussettes', 'des chaussures', 'une chemise', 'un gilet', 'une jupe',
+                 'un legging', 'un pantalon', 'un pull', 'une robe', 'un short', 'un t-shirt', 'une taille', 'un top',
+                 'des baskets', 'des bottes', 'des chaussures à talons', 'des chaussures plates', 'une pointure',
+                 'des sandales', 'des tongs']
+les_éléments_de_la_cuisine = ['un (four à) micro-ondes', 'une bouilloire', 'une cafetière', 'un congélateur',
+                              'une cuisinère à gaz', 'un égouttoir', 'un évier', 'un four', 'un frille-pain',
+                              'un îlot de cuisine', 'un lave-vaisselle', 'un mixeur', 'un poubelle', 'un réfrigérateur',
+                              'un cobinet', 'une table de cuisine', 'une théière', 'une balance', 'une casserole',
+                              'des ciseaux', 'un couteau', 'un couteau à pain', 'une cuillère en bois', 'un éplucheur',
+                              'un essoreuse à salade', 'un fouet', 'une louche', 'une manique', 'une ouvre-boîtes',
+                              'une passoire', 'une planche à découper', 'une poêle', 'une spatule', 'la vaisselle',
+                              'une assiette', 'un bol', 'une tasse', 'un verre', 'un verre à vin', 'les couverts',
+                              'un couteau', 'une cuillève', 'une cuillève à café', 'une cuillève à soupe',
+                              'une fourchette', 'une nappe', 'une povrier', 'une salière', 'une serviette']
+la_famille = ['La famille', 'les enfants', 'les parents', 'un mari', 'une femme', 'un père', 'une mère', 'un fils',
+              'une fille', 'un frère', 'une sœur', "l'aîné", "l'aînée", 'le cadet', 'la cadette', 'des jumeaux',
+              'des jumelles', 'des triplés', 'un beau-fils', 'une belle-fille', 'un beau-frère', 'une beau-sœur',
+              'un beau-père', 'une belle-mère', 'les beaux-parents', 'les proches', 'un parrain', 'une marraine',
+              'un filleul', 'une filleule', 'un cousin', 'une cousine', 'un oncle', 'une tante', 'un neveu',
+              'une nièce', 'un grand-père', 'une grand-mère', 'les grands-parents', 'les petits-enfants',
+              'un petits-fils', 'une petite-fille', 'un demi-frère', 'une demi-sœur']
+les_quentités = ['mesurer', 'peser', 'une boîte de', 'une bouteille de', 'une canette de', 'une cuillère à café de',
+                 'une cuillère à soupe de', 'une livre de', 'un morceau de', 'un milligramme', 'un gramme', 'un kilo',
+                 'une tonne', 'un millilitre', 'un litre', 'un paquet de', 'un pot de', 'une tablette de',
+                 'une tasse de', 'une tranche de', 'un verre de']
+les_animaux = ['un agneau', 'un âne', 'un canard', 'un castor', 'un cerf', 'un chat', 'une chauve-souris', 'un cheval',
+               'une chèvre', 'un chien', 'une chouette', "un cochon d'inde", 'un cochon', 'un coq', 'un coyote',
+               'un dinde', 'un écureuil', 'un élan', 'un hamster', 'un hérisson', 'un lapin', 'un lézard', 'un loup',
+               'un lynx', 'une moufette', 'un mouton', 'un ours', 'un perroquet', 'un possion rough', 'un poney',
+               'une poule', 'un poussin', 'un raton laveur', 'un renard', 'un sanglier', 'une souris', 'un taureau',
+               'une tortue', 'une vache', 'un veau', 'une volaille']
